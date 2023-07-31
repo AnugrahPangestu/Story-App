@@ -1,6 +1,12 @@
 # Story-App
 Aplikasi Create atau Post Story
 
+# 1. Halaman Autentikasi
+- Terdapat Halaman Autentikasi Berupa Halaman Login dan Halaman Register atau Daftar Akun <br>
+- Menggunakan Custom View pada Halaman Login atau Register<br>
+- Menyimpan Data Sesi dan Token di Preferences<br>
+- Terdapat Fitur Logout
+
 1. Halaman Autentikasi
 - Terdapat Halaman Autentikasi Berupa Halaman Login dan Halaman Register atau Daftar Akun <br>
 - Menggunakan Custom View pada Halaman Login atau Register<br>
