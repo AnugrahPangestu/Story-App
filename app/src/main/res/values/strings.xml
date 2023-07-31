@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">StoryApps</string>
+    <string name="btn_text_login_signin">LOGIN</string>
+    <string name="text_signin_register">Belum punya akun?</string>
+    <string name="register">Daftar</string>
+    <string name="name">Nama</string>
+    <string name="text_signup_to_signin">Sudah punya akun? </string>
+    <string name="log_in">Login</string>
+    <string name="logout">Logout</string>
+    <string name="add_new_story">Add New Story</string>
+    <string name="image_story_des_detail">Image Story</string>
+    <string name="description_scroll_fragment">Detail Scroll View</string>
+    <string name="image_preview_add_des">Image Preview</string>
+    <string name="btn_camera_text_add">Camera</string>
+    <string name="btn_text_gallery_add">Gallery</string>
+    <string name="hint_edt_des_add">Description</string>
+    <string name="btn_text_upload_add">Upload</string>
+    <string name="rotate_camera_description">Rotate</string>
+    <string name="capture_description">Capture</string>
+    <string name="btn_retry">Coba Lagi</string>
+    <string name="cb_text">Share Location</string>
+    <string name="maps">Maps</string>
+    <string name="title_activity_maps">MapsActivity</string>
+</resources>

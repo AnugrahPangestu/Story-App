@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/story_navigation"
+    app:startDestination="@id/homeStoryFragment">
+
+    <fragment
+        android:id="@+id/homeStoryFragment"
+        android:name="com.example.storyapps.ui.story.HomeStoryFragment"
+        android:label="fragment_home_story"
+        tools:layout="@layout/fragment_home_story" >
+        <action
+            android:id="@+id/action_homeStoryFragment_to_detailStoryFragment"
+            app:destination="@id/detailStoryFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/detailStoryFragment"
+        android:name="com.example.storyapps.ui.story.detail.DetailStoryFragment"
+        android:label="fragment_detail_story"
+        tools:layout="@layout/fragment_detail_story" >
+        <argument
+            android:name="id"
+            app:argType="string"
+            android:defaultValue="story" />
+    </fragment>
+    <fragment
+        android:id="@+id/addStoryFragment"
+        android:name="com.example.storyapps.ui.story.addstory.AddStoryFragment"
+        android:label="fragment_add_story"
+        tools:layout="@layout/fragment_add_story" />
+</navigation>
