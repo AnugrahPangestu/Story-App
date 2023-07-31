@@ -4,7 +4,7 @@ Aplikasi Create atau Post Story
 Story-App
 ==
 Aplikasi Create atau Post Story
---
+==
 1. Halaman Autentikasi
 - Terdapat Halaman Autentikasi Berupa Halaman Login dan Halaman Register atau Daftar Akun
 - Menggunakan Custom View pada Halaman Login atau Register
