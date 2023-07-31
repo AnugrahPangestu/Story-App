@@ -27,4 +27,12 @@ Aplikasi Create atau Post Story
 - Menerapkan unit test pada fungsi di dalam ViewModel yang mengambil list data Paging
 - Jika Berhasil Memuat Data Story, memastikan data tidak null, Memastikan jumlah data sesuai dengan yang diharapkan, Memastikan data pertama yang dikembalikan sesuai.
 - Jika Tidak Ada Data Story, Memastikan jumlah data yang dikembalikan nol.
+
+# Screenshots
+<div>
+  <img src="https://github.com/AnugrahPangestu/Story-App/blob/master/app/src/main/res/drawable/Screenshot/Login.jpg" alt="Gambar 1" width="210" height="450" style="display: inline-block;">
+  <img src="https://github.com/AnugrahPangestu/Story-App/blob/master/app/src/main/res/drawable/Screenshot/Register.jpg" alt="Gambar 2" width="210" height="450" style="display: inline-block;">
+  <img src="https://github.com/AnugrahPangestu/Story-App/blob/master/app/src/main/res/drawable/Screenshot/Home.jpg" alt="Gambar 3" width="210" height="450" style="display: inline-block;">
+  <img src="https://github.com/AnugrahPangestu/Story-App/blob/master/app/src/main/res/drawable/Screenshot/Add%20Story.jpg" alt="Gambar 4" width="210" height="450" style="display: inline-block;">
+  <img src="https://github.com/AnugrahPangestu/Story-App/blob/master/app/src/main/res/drawable/Screenshot/Maps.jpg" alt="Gambar 5" width="210" height="450" style="display: inline-block;">
  
